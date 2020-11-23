@@ -21,6 +21,7 @@ My compiled list of web development resources.
 #### CSS Generators
 * [CSS Gradient Generator](https://cssgradient.io/)
 * [Gradient Magic](https://www.gradientmagic.com/)
+* [UiGradient](https://uigradients.com/)
 * [Accordion Slider](https://accordionslider.com/)
 * [Best CSS Button Generator](https://www.bestcssbuttongenerator.com/)
 * [CSS Button Creator](https://cssbuttoncreator.com/)
@@ -43,6 +44,7 @@ My compiled list of web development resources.
 
 #### Color Generators
 * [Coolors](https://coolors.co/app)
+* [Palettab](https://palettab.com)
 * [Paletton](https://paletton.com/)
 * [Flat UI Colors](https://flatuicolors.com/)
 * [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
@@ -393,6 +395,7 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 * [WebDevResources](https://webdevresources.info/)
 * [Undesign](https://undesign.learn.uno)
 * [Muzli](https://muz.li)
+* [LabsJensimmons](https://labs.jensimmons.com/)
 
 
 
