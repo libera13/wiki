@@ -102,6 +102,7 @@ My compiled list of web development resources.
 * [Ikonate](https://ikonate.com/)
 * [Eva Icons](https://akveo.github.io/eva-icons/#/)
 * [Icons8 Animated Icons](https://icons8.com/animated-icons)
+* [The Noun Project](https://thenounproject.com/)
 
 #### Icon Fonts
 * [Fontawesome](https://fontawesome.com/?from=io)
