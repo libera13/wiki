@@ -180,39 +180,6 @@ My compiled list of web development resources.
 * [NPM Tips](https://corgibytes.com/blog/2017/04/18/npm-tips/)
 
 
-## PHP
-
-#### Reference
-* [php.net](https://www.php.net/)
-* [php fig](https://www.php-fig.org/)
-* [php the right way](https://phptherightway.com/)
-* [Onramp (from Tighten)](https://onramp.dev/)
-
-#### Back-End Frameworks
-* [CakePHP](https://cakephp.org/)
-* [CodeIgniter](https://codeigniter.com/)
-* [Laravel](https://laravel.com/)
-  * [Laravel Frontend](https://laravel.com/docs/7.x/frontend)
-  * [Lighthouse GraphQL Framework forLaravel](https://lighthouse-php.com)
-  * [Jetstream](https://jetstream.laravel.com)
-  * [Livewire](https://laravel-livewire.com)
-* [Slim](https://www.slimframework.com/)
-* [Symfony](https://symfony.com/)
-
-#### Content Management Systems (CMS)
-* [Wordpress](https://wordpress.com/)
-* [Magento](https://magento.com/)
-* [Drupal](https://www.drupal.org/)
-* [Joomla](https://www.joomla.org/)
-
-#### Libraries
-* [Carbon](https://carbon.nesbot.com/docs/#api-introduction)
-* [Faker](https://github.com/fzaninotto/Faker#fakerproviderlorem)
-
-#### Learning
-* [Laracasts](https://laracasts.com/)
-
-
 ## Regex
 * [RegExr - Learn build and test regex](https://regexr.com/)
 
@@ -397,7 +364,7 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 * [Undesign](https://undesign.learn.uno)
 * [Muzli](https://muz.li)
 * [LabsJensimmons](https://labs.jensimmons.com/)
-
+* [Codrops](https://tympanus.net/codrops/category/playground/)
 
 
 ### Browser Compatibility
