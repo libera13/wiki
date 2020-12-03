@@ -2,8 +2,8 @@
 My compiled list of web development resources.
 
 #### Surveys
-* (State of CSS)[https://2020.stateofcss.com/en-US/demographics/]
-* (State of JS)[https://2019.stateofjs.com/features/language/]
+* [State of CSS](https://2020.stateofcss.com/en-US/demographics/)
+* [State of JS](https://2019.stateofjs.com/features/language/)
 
 ## HTML / CSS
 
