@@ -1,6 +1,10 @@
 # Resources
 My compiled list of web development resources.
 
+#### Surveys
+* (State of CSS)[https://2020.stateofcss.com/en-US/demographics/]
+* (State of JS)[https://2019.stateofjs.com/features/language/]
+
 ## HTML / CSS
 
 #### CSS Frameworks
@@ -212,41 +216,6 @@ My compiled list of web development resources.
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)
 * [Codecademy](https://www.codecademy.com/learn/paths/web-development)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-
-
-
-### Udemy Courses
-* [Advanced CSS and Sass by Jonas Schmedtmann](https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274498?start=390#overview)
-* [The Complete JavaScript Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/learn/)
-* [Web Design for Web Developers by Jonas Schmedtmann](https://www.udemy.com/course/web-design-secrets/learn/lecture/2744010#overview)
-* [Modern Javascript Bootcamp by Andrew Mead](https://www.udemy.com/course/modern-javascript/learn/)
-* [The Complete React Developer Course by Andrew Mead](https://www.udemy.com/course/react-2nd-edition/learn/)
-* [The Complete Node.js Developer Course by Andrew Mead](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/learn/)
-* [Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/3861190#overview)
-* [The Ultimate MySQL Bootcamp by Colt Steele](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/)
-* [Vue JS 2 - The Complete Guide by Maximilian Schwarzmuller](https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/)
-* [React - The Complete Guide by Maximilian Schwarzmuller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/)
-* [Angular - The Complete Guide by Maximilian Schwarzmuller](https://www.udemy.com/course-dashboard-redirect/?course_id=756150)
-* [Ultimate Web Developer by Brad Hussey](https://www.udemy.com/course/web-developer-course/learn/)
-* [The Complete Web Developer Course 2.0 by Rob Percival](https://www.udemy.com/course/the-complete-web-developer-course-2/learn/)
-* [The Complete Web Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830?start=0#overview)
-* [Complete Python Bootcamp by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/learn/)
-* [Svelte.js - The Complete Guide (incl. Sapper.js) by Maximilian Schwarzmuller](https://www.udemy.com/course/sveltejs-the-complete-guide/learn/)
-* [Learn How To Code: Google's Go (golang) by Todd McLeod](https://www.udemy.com/course/sveltejs-the-complete-guide/learn/)
-* [Data Structures and Algorithms by Andrei Neagoie](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/)
-* [The Complete Junior to Senior Web Developer Roadmap by Andrei Neagoie](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/learn)
-* [The Complete Web Developer Zero To Mastery by Andrei Neagoie](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/)
-* [Advanced Javascript Concepts by Andrei Neagoie](https://www.udemy.com/course/advanced-javascript-concepts/learn/)
-* [Javascript the Complete Guide 2020 Beginner to Advanced by Maximilian Schwarzmuller](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/learn/)
-
-
-
-
-### Laracasts Courses (by Jeffrey Way)
-* [The PHP Practitioner](https://laracasts.com/series/php-for-beginners)
-* [Laravel 6 From Scratch](https://laracasts.com/series/laravel-6-from-scratch)
-* [Object Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php)
-
 
 
 ### Reference
