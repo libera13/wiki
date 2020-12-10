@@ -5,6 +5,9 @@ My compiled list of web development resources.
 * [State of CSS](https://2020.stateofcss.com/en-US/demographics/)
 * [State of JS](https://2019.stateofjs.com/features/language/)
 
+#### Performance
+* [BundlePhobia](https://bundlephobia.com/)
+
 ## HTML / CSS
 
 #### CSS Frameworks
