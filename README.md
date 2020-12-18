@@ -8,6 +8,10 @@ My compiled list of web development resources.
 #### Performance
 * [BundlePhobia](https://bundlephobia.com/)
 
+#### AI
+* [Useful-links](https://github.com/buus2/dcbit/wiki/Useful-links)
+
+
 ## HTML / CSS
 
 #### CSS Frameworks
